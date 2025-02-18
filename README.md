@@ -48,4 +48,4 @@ If you have trouble with the commands:
 
 Author: tikhi
 
-Github: "https://github.com/yunusegriboz"
+Github: "https://github.com/tikh1"
